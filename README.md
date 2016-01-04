@@ -1,7 +1,7 @@
 Alice's Homepage
 ===========
 
-This repo holds the code that runs [my homepage](http://alicemottola.com).
+The code that runs [my homepage](http://alicemottola.com).
 
 This project was forked from my friend [Zack](http://zacksheppard.com). He says:
 
