@@ -12,7 +12,7 @@
     "serve-static": "~1.7.x"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "6.11.1"
   },
   "repository": {
     "type": "git",
